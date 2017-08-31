@@ -1,10 +1,10 @@
 # Resume
 # Shu Tu
 
-52 Daley Rd, Acton, Canberra,
-ACT2601, Australia  
-Telephone: 0426800127
-Email: shuman.shu.tu@gmail.com  
+52 Daley Rd, Acton, Canberra,  
+ACT2601, Australia    
+Telephone: 0426800127  
+Email: shuman.shu.tu@gmail.com    
 
 
 ## Objective
