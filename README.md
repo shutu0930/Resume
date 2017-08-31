@@ -2,9 +2,9 @@
 # Shu Tu
 
 52 Daley Rd, Acton, Canberra,
-ACT2601, Australia
+ACT2601, Australia  
 Telephone: 0426800127  	
-Email: shuman.shu.tu@gmail.com
+Email: shuman.shu.tu@gmail.com  
 
 
 ## Objective
@@ -40,11 +40,11 @@ Studying Computer Science and Technology subjects; GPA: 3.6/4
 - Good oral and written **communication skills** and other transferable skills through my roles in relevant experience above.
 - Good **Github** tool using, here shows some of my programming work: [https://github.com/shutu0930]
 ## Referees
-Mr Wang, Innovation ACT entrepreneurship group partner
+Mr Wang, Innovation ACT entrepreneurship group partner  
 Accountant, National Australia Bank
 gary.shengya.wang@gmail.com
-0449969638 <br />
-Ms Zaraftis,
-Acting Principal at Burgmann College
+0449969638  
+Ms Zaraftis, <br />
+Acting Principal at Burgmann College  
 Amelia.zaraftis@anu.edu.au
 +61261256890
