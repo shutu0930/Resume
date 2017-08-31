@@ -43,7 +43,7 @@ Studying Computer Science and Technology subjects; GPA: 3.6/4
 Mr Wang, Innovation ACT entrepreneurship group partner  
 Accountant, National Australia Bank  
 gary.shengya.wang@gmail.com  
-0449969638    
+0449969638  <br />
 Ms Zaraftis, <br />
 Acting Principal at Burgmann College    
 Amelia.zaraftis@anu.edu.au  
