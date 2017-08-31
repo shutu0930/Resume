@@ -41,10 +41,10 @@ Studying Computer Science and Technology subjects; GPA: 3.6/4
 - Good **Github** tool using, here shows some of my programming work: [https://github.com/shutu0930]
 ## Referees
 Mr Wang, Innovation ACT entrepreneurship group partner  
-Accountant, National Australia Bank
-gary.shengya.wang@gmail.com
-0449969638  
+Accountant, National Australia Bank  
+gary.shengya.wang@gmail.com  
+0449969638    
 Ms Zaraftis, <br />
-Acting Principal at Burgmann College  
-Amelia.zaraftis@anu.edu.au
-+61261256890
+Acting Principal at Burgmann College    
+Amelia.zaraftis@anu.edu.au  
++61261256890  
