@@ -17,7 +17,7 @@ Networked Information Systems, Managing Software Projects in a System Context, S
 Analysis Design, Bio-inspired Computing  
 - Cumulative GPA: 6.125  
 ##### 2011: 	 	             Bachelor of Internet of Things Engineering, Chinese Soochow University
-##### Studying Computer Science and Technology subjects
+###### Studying Computer Science and Technology subjects
 - Relevant Courses: Multimedia Communication Technology, Data Structures, Algorithms Design Analysis
 - Cumulative GPA: 3.62 / 4.00
 
@@ -35,8 +35,8 @@ Analysis Design, Bio-inspired Computing
 - Enhanced teamwork and coordination skills through working with the internal and external departments.
 ## Extracurricular activities
 #### 2012-2014 Position: *(MSP) Microsoft Campus Agent / Microsoft Student Partner*
-- Used creative skills to organize fun workshops and hackathons to share Microsoft technologies with fellow classmates.
-- Built Microsoft communities on campus and Assisted to propagate Microsoft products.
+- Used creative skills to organize fun workshops and hackathons to share Microsoft technologies with fellow classmates.  
+- Built Microsoft communities on campus and Assisted to propagate Microsoft products.  
 - Negotiated with Microsoft staff about activities based on school rules to overcome communication problems.
 ## Skills
 - Good programming skill, including **Java**, **C/C++** languages.
@@ -45,6 +45,24 @@ Analysis Design, Bio-inspired Computing
 - Good research and analysis skills in specializing **Artificial Intelligence**, like document analysis and computer vision(Matlab).
 - Good oral and written **communication skills** and other transferable skills through my roles in relevant experience above.
 - Good **Github** tool using, here shows some of my programming work: [https://github.com/shutu0930]
+
+## Projects
+### Spinify Admin Portal Site by React
+- Being the front-end developer to build a Admin portal website for a start-up.
+- Technique stacks including JavaScript, HTML5, React, Redux, Npm, Webpack.  
+### Foodies responsive website
+- Use HTML5, CSS3 and jQuery to build a fictional food business webpage.
+- Address: https:
+### The Center of Information development and management of Soochow University
+- Use HTML, CSS and C# to build a Business information website for Soochow University.
+- Address: [http://its.suda.edu.cn/]
+### Party Committee Administrative Office of Soochow University
+- Address: [http://jgdgw.suda.edu.cn/]
+### Center for Chinese Urbanization Studies
+- Address: [http://rurc.suda.edu.cn/]  
+
+
+
 ## Referees
 Mr Wang, Innovation ACT entrepreneurship group partner  
 Accountant, National Australia Bank  
